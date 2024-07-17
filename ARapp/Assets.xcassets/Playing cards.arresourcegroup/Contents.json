@@ -1,0 +1,14 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "Figure01.arreferenceimage"
+    },
+    {
+      "filename" : "Figure02.arreferenceimage"
+    }
+  ]
+}
